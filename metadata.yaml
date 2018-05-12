@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '6858'
     url: http://www.gutenberg.org/2009/agents/6858
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17024#The-Last-Journals-of-David-Livingstone-in-Central-Africa-from-1865-to-His-Death-Volume-II--of_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2005-11-08'
 gutenberg_type: Text
