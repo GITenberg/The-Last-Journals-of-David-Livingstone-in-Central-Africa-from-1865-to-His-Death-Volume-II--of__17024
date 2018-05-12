@@ -1,0 +1,38 @@
+_repo: The-Last-Journals-of-David-Livingstone-in-Central-Africa-from-1865-to-His-Death-Volume-II--of__17024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Livingstone, David
+    alias: Livingston, David
+    birthdate: 1813
+    deathdate: 1873
+    gutenberg_agent_id: '519'
+    url: http://www.gutenberg.org/2009/agents/519
+    wikipedia: http://en.wikipedia.org/wiki/David_Livingstone
+  editor:
+    agent_name: Waller, Horace
+    alias: Waller, H. (Horace)
+    birthdate: 1833
+    deathdate: 1896
+    gutenberg_agent_id: '6858'
+    url: http://www.gutenberg.org/2009/agents/6858
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2005-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17024'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa, Central -- Description and travel'
+- !lcc 'DT'
+title: "The Last Journals of David Livingstone, in Central Africa, from 1865 to His\
+  \ Death, Volume II (of  2), 1869-1873\r\nContinued By A Narrative Of His Last Moments\
+  \ And Sufferings, Obtained From His Faithful Servants Chuma And Susi"
+url: http://www.gutenberg.org/ebooks/17024
